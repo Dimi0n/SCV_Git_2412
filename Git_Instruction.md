@@ -146,9 +146,7 @@ git merge "branch name"
  - принять оба текста
  - сделать сравнение
 
-qiqhwfoiqhqphp
-qwehoqiwyheoqhe
-qpwiehjqiejqw
+fiiuiuiugggggjkjjjkjkj
 
 ## 12 Удаление веток
 
