@@ -168,3 +168,5 @@ fiiuiuiugggggjkjjjkjkj
 ```
 git branch -d Имя ветки
 ```
+строка 171 попытка 1
+строка 171 попытка 2
