@@ -160,7 +160,6 @@ git merge "branch name"
  - принять оба текста
  - сделать сравнение
 
-fiiuiuiugggggjkjjjkjkj
 
 ## 12 Удаление веток
 
@@ -168,5 +167,4 @@ fiiuiuiugggggjkjjjkjkj
 ```
 git branch -d Имя ветки
 ```
-строка 171 попытка 1
-строка 171 попытка 2
+
