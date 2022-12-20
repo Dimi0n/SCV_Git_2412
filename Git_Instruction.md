@@ -168,5 +168,5 @@ fiiuiuiugggggjkjjjkjkj
 ```
 git branch -d Имя ветки
 ```
-line 171 -first try
+line 171 - first try
 line 171 - second try
